@@ -1,0 +1,33 @@
+{
+  "buttons": {
+    "sign_up": "Sign Up"
+  },
+
+  "texts": {
+    "get_started": "Let's get you started!",
+    "welcome": "Welcome to Flutter Test",
+    "select_category_content": "Please select categories what you would like to see on your feed. You can set this later on Filter.",
+    "your_email": "Your email",
+    "your_password": "Your password",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "conditions":"By clicking Sign Up, you are indicating that you have read and agree to the ",
+    "and": "and"
+  },
+  "validators": {
+    "email_required": " The email is required",
+    "invalid_email": "The email is required.",
+    "password_required": "The password is required",
+     "level_rule":{
+      "rule_one": "Contains both lowercase and uppercase letters",
+      "rule_two": "Contains at least one numeric character",
+      "rule_three": "Contains special characters"
+     },
+    "password_level":{
+      "weak": "Weak",
+      "good": "Good",
+      "strong": "Strong",
+      "fair":"Fair"
+    }
+  }
+}
